@@ -11,14 +11,14 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11558326915">
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-115583269">
 </script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'AW-11558326915');
+  gtag('config', 'AW-115583269');
 </script>
       </head>
       <body className={inter.className}>
