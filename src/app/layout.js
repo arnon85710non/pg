@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
   gtag('js', new Date());
 
   gtag('config', 'AW-11558326915');
-</script>
+<//head>
       </head>
       <body className={inter.className}>
         {children}
